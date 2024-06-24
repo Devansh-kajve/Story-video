@@ -1,0 +1,32 @@
+.upload-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 10px;
+  }
+  
+  .file-preview {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .file-item {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .file-item img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 5px;
+  }
+  
